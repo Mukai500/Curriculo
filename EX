@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+
+        <title>Meu Curriculo</title>
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+      </head>
+  <body>
+        <div>
+
+            <h1>Nathan Suzano SIneiro</h1>
+        </div>
+        <div>
+    
+          Brasileiro, solteiro, 24 anos<br>
+          Rua Aricuri, número 166, Fundos<br>
+          Campo Grande – Rio de Janeiro – RJ<br>
+          Cel: (21) 991157104 / E-mail: nathan.suzano@gmail.com<br>
+
+        </div>
+        <div>
+            <h3>Objetivo</h3>
+        </div>
+        <div>
+            <ul>
+                <li>Estágio em TI</li>               
+            </ul>
+        </div>
+        <div>
+            <h3>Formação</h3>
+        </div>
+        <div>
+            <ul>
+                <li>•	Ensino Superior Cursando, Unopar Campo Grande, Termino para 2º Semestre de 2021</li>               
+            </ul>
+        </div>
+        <div>
+            <h3>EXPERIÊNCIA PROFISSIONAL</h3>
+        </div>
+        <div>
+            <ul>
+              <li>CARGO JOVEM APRENDIZ - ESPRO</li>    
+              <ul>
+                <li>Digitalização e Impressão de Documentos</li>  
+                <li>Montagem e Manutenção de Maquinas</li> 
+                <li>Organização de arquivos em Word e Exel</li> 
+                <li>Crimpar Cabos</li> 
+              </ul>
+            </ul>
+        </div>
+
+    <div>
+        <div>
+            <h3>LÍNGUA ESTRANGEIRA</h3>
+        </div>
+        <div>
+            <ul>
+                <li>Ingles Intermediário.</li>
+            </ul>
+        </div>
+    </div>
+    </body>
+  </html>
